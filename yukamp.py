@@ -8,7 +8,7 @@ class Dugum:
         self.malzeme = malzeme
         self.tarih = tarih
         self.sol = None
-        self.sag = None
+        self.sag = None // BOS DEGER 
 
 
 class ÜyeAgaci:
